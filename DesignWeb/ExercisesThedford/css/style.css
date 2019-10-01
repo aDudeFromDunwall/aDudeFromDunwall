@@ -1,0 +1,159 @@
+html,body
+{
+    height: 100%;
+}
+
+
+.rouge
+{
+    background-color: red;
+}
+
+.bleu
+{
+    background-color: blue;
+}
+
+.jaune
+{
+    background-color: yellow;
+}
+
+.vert
+{
+    background-color: green;
+}
+
+.bgimg
+{
+
+    background-image: url("../img/gris.jpg");
+
+    background-position: center;
+    width: 100%;
+    height: 500px;
+    text-align: center;
+
+    padding-top: 100px;
+}
+
+hr
+{
+    width: 50px;
+}
+
+.RRR
+{
+    background-color: red;
+    text-align: center;
+    height: 250px;
+    padding-top: 40px;
+}
+
+.Zfa
+{
+
+    padding-top: 50px;
+}
+
+.cen
+{
+    text-align: center;
+
+}
+
+p{
+    text-align: center;
+}
+
+img
+{
+    height:100%;
+    width: 100%;
+}
+
+.parrallax1
+{
+    /* L'image que tu veux*/
+    background-image: url("../img/nuke.jpg");
+
+    /*l'hauteur du parallax*/
+    height: 100%;
+
+
+    /*Création de l'effets*/
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.parrallax2
+{
+    /* L'image que tu veux*/
+    background-image: url("../img/fusion nuke.jpg");
+
+    /*l'hauteur du parallax*/
+    height: 100%;
+
+
+    /*Création de l'effets*/
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+.parrallax3
+{
+    /* L'image que tu veux*/
+    background-image: url("../img/noyau.jpg");
+
+    /*l'hauteur du parallax*/
+    height: 100%;
+
+
+    /*Création de l'effets*/
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.hauteur85{
+    height: 85%;
+}
+.hauteur15
+{
+    height: 15%;
+}
+
+.LARGEur
+{
+    width: 100%;
+}
+
+.OpaquEEEE
+{
+    opacity: .75;
+    background-color: white;
+}
+
+.OpaquEEEJ
+{
+    opacity: .75;
+    background-color: yellow;
+}
+
+
+@media screen and (max-width: 600px) {
+    div.blyat {
+        display: none;
+    }
+}
+
+boutton
+{
+    Width:50px;
+}
