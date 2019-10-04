@@ -1,6 +1,5 @@
 html,body
 {
-    font-size: 10px;
     height: 100%;
 }
 .rouge
@@ -67,43 +66,17 @@ p{
 
 
 
-.part1
+.parrallax
 {
-    padding-top: 20px;
+    /* L'image que tu veux*/
+    /*Background image ici*/
 
-}
+    /*l'hauteur du parallax*/
 
-.part2
-{
-    padding-top: 20px;
-}
-
-.part3
-{
-    padding-top: 20px;
-}
-.iconProfil
-{
-    border-radius: 50%;
+    /*Création de l'effets*/
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
-.taillededia
-{
-    height: 100%;
-}
-.centreeeeee
-{
-    align-items: center;
-    text-align: center;
-}
-
-.GrosBDG
-{
-
-}
-
-.maxWidth
-{
-    max-width: 100px;
-    width: 100%;
-}

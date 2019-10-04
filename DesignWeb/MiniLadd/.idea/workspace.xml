@@ -1,15 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8ab5e8cf-6c66-4b63-bbb0-7d5de87ca75b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../MiniLadd/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MiniLadd/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="867761f0-71b3-456f-9bd1-3243c1305c52" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Mini_ladd_new_logo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Orion.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/mini.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/miniSon.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/samy.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/tytheeditor.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/yui.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/page2.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../formulaire/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../formulaire/formulaireEnvoyer.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../formulaire/img/maxresdefault.jpg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../formulaire/recherche.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../EssaiFacebook/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../EssaiFacebook/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EssaiFacebook/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/../EssaiFacebook/css/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ExercisesThedford/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ExercisesThedford/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JumbotronModal/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JumbotronModal/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NavBaretCarrouselEtFavicon/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../NavBaretCarrouselEtFavicon/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -22,8 +33,17 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-170">
-              <caret line="8" column="69" lean-forward="true" selection-start-line="8" selection-start-column="69" selection-end-line="8" selection-end-column="69" />
+            <state relative-caret-position="272">
+              <caret line="174" selection-start-line="174" selection-end-line="174" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/page2.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="408">
+              <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
             </state>
           </provider>
         </entry>
@@ -31,8 +51,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="529">
-              <caret line="75" column="28" selection-start-line="75" selection-start-column="28" selection-end-line="75" selection-end-column="28" />
+            <state relative-caret-position="1122">
+              <caret line="66" selection-start-line="66" selection-end-line="66" />
             </state>
           </provider>
         </entry>
@@ -52,8 +72,9 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/css/style.css" />
+        <option value="$PROJECT_DIR$/page2.html" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -73,17 +94,12 @@
         <subPane>
           <expand>
             <path>
-              <item name="JumbotronModal" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JumbotronModal" type="462c0819:PsiDirectoryNode" />
+              <item name="MiniLadd" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MiniLadd" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="JumbotronModal" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JumbotronModal" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JumbotronModal" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JumbotronModal" type="462c0819:PsiDirectoryNode" />
+              <item name="MiniLadd" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MiniLadd" type="462c0819:PsiDirectoryNode" />
               <item name="img" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -94,11 +110,12 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Thierry Nadeau\Documents\GitHub\aDudeFromDunwall\DesignWeb\JumbotronModal\img" />
+      <recent name="C:\Users\Thierry Nadeau\Documents\GitHub\aDudeFromDunwall\DesignWeb\MiniLadd\img" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -118,24 +135,25 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="8ab5e8cf-6c66-4b63-bbb0-7d5de87ca75b" name="Default Changelist" comment="" />
-      <created>1569500619458</created>
+      <changelist id="867761f0-71b3-456f-9bd1-3243c1305c52" name="Default Changelist" comment="" />
+      <created>1570192710684</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1569500619458</updated>
-      <workItem from="1569500621046" duration="3499000" />
-      <workItem from="1570193915541" duration="32000" />
+      <updated>1570192710684</updated>
+      <workItem from="1570192711903" duration="6981000" />
+      <workItem from="1570199904472" duration="526000" />
+      <workItem from="1570208819070" duration="1521000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3531000" />
+    <option name="totallyTimeSpent" value="9028000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25340393" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25718608" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -162,15 +180,22 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="529">
-          <caret line="75" column="28" selection-start-line="75" selection-start-column="28" selection-end-line="75" selection-end-column="28" />
+        <state relative-caret-position="1122">
+          <caret line="66" selection-start-line="66" selection-end-line="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/page2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-170">
-          <caret line="8" column="69" lean-forward="true" selection-start-line="8" selection-start-column="69" selection-end-line="8" selection-end-column="69" />
+        <state relative-caret-position="272">
+          <caret line="174" selection-start-line="174" selection-end-line="174" />
         </state>
       </provider>
     </entry>

@@ -1,15 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8ab5e8cf-6c66-4b63-bbb0-7d5de87ca75b" name="Default Changelist" comment="">
+    <list default="true" id="7c101c27-d387-4127-a2d4-a4374d7f0ab2" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/../MiniLadd/.idea/encodings.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../MiniLadd/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../formulaire/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../formulaire/formulaireEnvoyer.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../formulaire/img/maxresdefault.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../formulaire/recherche.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiniLadd/img/Mini_ladd_new_logo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiniLadd/img/Orion.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiniLadd/img/mini.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiniLadd/img/miniSon.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiniLadd/img/samy.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiniLadd/img/tytheeditor.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiniLadd/img/yui.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiniLadd/page2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/formulaireEnvoyer.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/maxresdefault.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recherche.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../EssaiFacebook/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../EssaiFacebook/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EssaiFacebook/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/../EssaiFacebook/css/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ExercisesThedford/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ExercisesThedford/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JumbotronModal/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JumbotronModal/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NavBaretCarrouselEtFavicon/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../NavBaretCarrouselEtFavicon/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,11 +30,32 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-170">
-              <caret line="8" column="69" lean-forward="true" selection-start-line="8" selection-start-column="69" selection-end-line="8" selection-end-column="69" />
+            <state relative-caret-position="-34">
+              <caret line="46" column="50" selection-start-line="46" selection-start-column="50" selection-end-line="46" selection-end-column="50" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/recherche.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="427">
+              <caret line="88" column="24" selection-start-line="88" selection-start-column="24" selection-end-line="88" selection-end-column="24" />
+              <folding>
+                <element signature="n#style#0;n#iframe#0;n#div#6;n#div#4;n#div#0;n#div#0;n#div#0;n#form#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/formulaireEnvoyer.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="18" column="39" selection-start-line="18" selection-start-column="39" selection-end-line="18" selection-end-column="39" />
             </state>
           </provider>
         </entry>
@@ -31,8 +63,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="529">
-              <caret line="75" column="28" selection-start-line="75" selection-start-column="28" selection-end-line="75" selection-end-column="28" />
+            <state relative-caret-position="357">
+              <caret line="69" column="16" selection-start-line="69" selection-start-column="16" selection-end-line="69" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -52,8 +84,10 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/formulaireEnvoyer.html" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/css/style.css" />
+        <option value="$PROJECT_DIR$/recherche.html" />
       </list>
     </option>
   </component>
@@ -69,36 +103,32 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="JumbotronModal" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JumbotronModal" type="462c0819:PsiDirectoryNode" />
+              <item name="formulaire" type="b2602c69:ProjectViewProjectNode" />
+              <item name="formulaire" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="JumbotronModal" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JumbotronModal" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JumbotronModal" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JumbotronModal" type="462c0819:PsiDirectoryNode" />
+              <item name="formulaire" type="b2602c69:ProjectViewProjectNode" />
+              <item name="formulaire" type="462c0819:PsiDirectoryNode" />
               <item name="img" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Thierry Nadeau\Documents\GitHub\aDudeFromDunwall\DesignWeb\JumbotronModal\img" />
+      <recent name="C:\Users\Thierry Nadeau\Documents\GitHub\aDudeFromDunwall\DesignWeb\formulaire\img" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -118,18 +148,18 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="8ab5e8cf-6c66-4b63-bbb0-7d5de87ca75b" name="Default Changelist" comment="" />
-      <created>1569500619458</created>
+      <changelist id="7c101c27-d387-4127-a2d4-a4374d7f0ab2" name="Default Changelist" comment="" />
+      <created>1570106056764</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1569500619458</updated>
-      <workItem from="1569500621046" duration="3499000" />
-      <workItem from="1570193915541" duration="32000" />
+      <updated>1570106056764</updated>
+      <workItem from="1570106058868" duration="5165000" />
+      <workItem from="1570192740028" duration="5384000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3531000" />
+    <option name="totallyTimeSpent" value="10549000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -162,15 +192,32 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="529">
-          <caret line="75" column="28" selection-start-line="75" selection-start-column="28" selection-end-line="75" selection-end-column="28" />
+        <state relative-caret-position="357">
+          <caret line="69" column="16" selection-start-line="69" selection-start-column="16" selection-end-line="69" selection-end-column="16" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-170">
-          <caret line="8" column="69" lean-forward="true" selection-start-line="8" selection-start-column="69" selection-end-line="8" selection-end-column="69" />
+        <state relative-caret-position="-34">
+          <caret line="46" column="50" selection-start-line="46" selection-start-column="50" selection-end-line="46" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/formulaireEnvoyer.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="39" selection-start-line="18" selection-start-column="39" selection-end-line="18" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/recherche.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="427">
+          <caret line="88" column="24" selection-start-line="88" selection-start-column="24" selection-end-line="88" selection-end-column="24" />
+          <folding>
+            <element signature="n#style#0;n#iframe#0;n#div#6;n#div#4;n#div#0;n#div#0;n#div#0;n#form#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

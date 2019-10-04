@@ -1,0 +1,223 @@
+<!DOCTYPE html>
+<html lang="fr-ca">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <title>Title</title>
+
+    <link rel="stylesheet" href="css/bootstrap.css">
+    <script src="https://kit.fontawesome.com/a46d75ba7a.js"></script>
+
+    <link rel="stylesheet" href="css/style.css">
+
+</head>
+<body>
+
+<form class="px-xl-3 px-md-1 px-1">
+    <div class="container-fluid">
+
+        <div class="row">
+            <div class="col-xl-12 col-md-12 col-12">
+
+                <div class="form-row pt-xl-3">
+                    <div class="form-group offset-xl-2 col-xl-4 col-md-12">
+                        <img src="img/maxresdefault.jpg" width="250px"/>
+
+                    </div>
+                    <div class="form-group col-xl-4 col-md-12 pt-xl-4">
+                        <p> Victo boulevard des niainserie 1234</p>
+                    </div>
+                </div>
+                <div class="form-row">
+                    <div class="form-group offset-xl-1 col-xl-10 col-md-12">
+                        <h1>Votre voyage</h1>
+                    </div>
+
+                </div>
+
+
+                <div class="form-row">
+                    <div class="form-group col-xl-4 col-md-12 col-12">
+
+                        <input type="Nom" class="form-control" id="inputNom" placeholder="Votre Nom">
+                    </div>
+                    <div class="form-group col-xl-4 col-md-12 col-12">
+
+                        <input type="Prenom" class="form-control" id="inputPrenom" placeholder="Votre Prenom">
+                    </div>
+                    <div class="form-group col-xl-4 col-md-12 col-12">
+
+                        <input type="Adress" class="form-control" id="inputAdress" placeholder="Votre adresse">
+                    </div>
+                </div>
+                <br>
+                <div class="form-row">
+                    <div class="form-group col-xl-4 col-md-12 col-12">
+
+                        <input type="Ville" class="form-control" id="inputVille" placeholder="Ville">
+                    </div>
+                    <div class="form-group col-xl-4 col-md-12 col-12">
+
+                        <input type="CP" class="form-control" id="inputCP" placeholder="Code Postal">
+                    </div>
+                    <div class="form-group col-xl-4 col-md-12 col-12">
+
+                        <input type="NumeroCell" class="form-control" id="inputNumeroCell" placeholder="Numero de Téléphone">
+                    </div>
+                </div>
+
+                <br>
+
+                <div class="form-row">
+                    <div class="form-group col-xl-12 col-md-12 col-12">
+
+                        <select id="inputDestination" class="form-control">
+                            <option selected>Choose</option>
+                            <option>Mexique</option>
+                            <option>Honk-Kong</option>
+                            <option>Cuba</option>
+                            <option>Shanghai</option>
+                            <option>Canada</option>
+                            <option>Pôle Nord</option>
+                        </select>
+                        <br>
+                    </div>
+
+                    <div class="form-group col-xl-6 col-md-12 col-12">
+
+                        <input type="NumeroDateDep" class="form-control" id="inputDateDep" placeholder="Date de Départ (en format 10/3/2019)">
+                    </div>
+                    <br>
+                    <div class="form-group col-xl-6 col-md-12 col-12">
+
+                        <input type="NumeroDateArr" class="form-control" id="inputDateArr" placeholder="Date d'arrivée (en format 10/3/2019)">
+                        <br>
+                    </div>
+
+                    <div class="form-group col-xl-6 col-md-12 col-12">
+
+                        <input type="NbAdulte" class="form-control" id="inputNBAdulte" placeholder="Nb adulte">
+                    </div>
+                    <div class="form-group col-xl-6 col-md-12 col-12">
+
+                        <input type="Nbenfant" class="form-control" id="inputNBEnfant" placeholder="Nb enfant">
+                    </div>
+                    <div class="form-group col-xl-2 col-md-12 col-12">
+                        <p class="text-left">Veuillez sélectionner le mode de transport:</p>
+                        <input type="radio" name="mdTransport" value="Train"> Train<br>
+                        <input type="radio" name="mdTransport" value="Avion"> Avion<br>
+                        <input type="radio" name="mdTransport" value="Téléportation"> Téléportation<br>
+                        <br>
+
+                        <p class="text-left">Veuillez sélectionner le type de siège :</p>
+                        <input type="radio" name="tpdeSiege" value="firstclass"> Première classe<br>
+                        <input type="radio" name="tpdeSiege" value="économique"> économique<br>
+
+                        <br>
+
+                        <div class="form-check">
+                            <input class="form-check-input" type="checkbox" id="gridCheck1">
+                            <label class="form-check-label" for="gridCheck">
+                                Tout compris
+                            </label>
+
+                        </div>
+                        <div class="form-check">
+                            <input class="form-check-input" type="checkbox" id="gridCheck2">
+                            <label class="form-check-label" for="gridCheck">
+                                Sur la plage
+                            </label>
+                        </div>
+
+                        <div class="form-check">
+                            <input class="form-check-input" type="checkbox" id="gridCheck3">
+                            <label class="form-check-label" for="gridCheck">
+                                Près d'un Golfe
+                            </label>
+                        </div>
+                    </div>
+
+                    <div class=" form group pt-xl-5 col-xl-10 col-md-12 col-12">
+                        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d531.9992505889627!2d-89.4861571952125!3d41.842045734682586!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8809ac1cfeb90c77%3A0xfaf90d4513ceb1d6!2sChristian%20Science%20Society%20of%20Dixon!5e1!3m2!1sfr!2sca!4v1570111159327!5m2!1sfr!2sca" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
+                    </div>
+
+
+
+
+
+
+
+                    <div class="form-row pt-xl-5">
+                        <div class="form-group">
+
+                            <br>
+                            <br>
+                            <button>Start research</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+    </div>
+
+</form>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script src="js/jquery-3.4.1.min.js"></script>
+<script src="js/bootstrap.js"></script>
+
+<script src="https://kit.fontawesome.com/a46d75ba7a.js"></script>
+
+</body>
+</html>
+
+
+
+
+
+<!-- étape pour envoyer ton site sur github a partir de gitbash
+1)ouvrir gitbash
+2)écrire : cd
+3)écrire : cd Mes \ documents/                 ( tu entre dans le fichier ou tu veux dropper ton site dans ce cas c Mes documents)
+4)écrire : cd GitHub/                           ( tu entre dans ton fichier Github)
+5)écrire : cd aDudeFromDunwall                 ( tu entre dans le fichier aDudeFromDunwall)
+6)écrire : git add DesignWeb/                  (DesignWeb est le nom du fichier vers lequel tu veux l'envoyer)
+7)écrire : git commit -m "le message qui résume ce que tu envoie genre: site web sur les fruits ou modifications des images"
+8)écrire : git push
+
+ps: utilise tab pour raccourcir l'écriture
+fini-->
+
+
+
+
+
+<!--étape pour comment se rendre sur un site que tu a publier sur github
+ 1) cliquer sur le truc qui s'appelle site dans la barre des favoris
+ 2) garder l'url
+ 3)Aller a partir de GitHub sur l'index de ton site (toujours sur github)
+ 4)cliquer sur copy path
+ 5)prendre l'url du #2 et rajouter le path du #4 après
+ 6)fini
+ -->
