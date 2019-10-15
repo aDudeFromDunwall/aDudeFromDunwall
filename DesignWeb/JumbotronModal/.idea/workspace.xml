@@ -2,14 +2,45 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8ab5e8cf-6c66-4b63-bbb0-7d5de87ca75b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../MiniLadd/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MiniLadd/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../formulaire/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../formulaire/formulaireEnvoyer.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../formulaire/img/maxresdefault.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../formulaire/recherche.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignWebProjetIntra/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignWebProjetIntra/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignWebProjetIntra/img/BanniereALT1P1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignWebProjetIntra/img/BanniereALT1P2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignWebProjetIntra/img/BanniereALT1P3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignWebProjetIntra/img/BanniereALT2P1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignWebProjetIntra/img/BanniereALT2P2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignWebProjetIntra/img/BanniereALT2P3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignWebProjetIntra/img/BannierePage1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignWebProjetIntra/img/BannierePage2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignWebProjetIntra/img/BannierePage3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignWebProjetIntra/img/Blyat.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignWebProjetIntra/img/CommunistParallaxALT1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignWebProjetIntra/img/CommunistParallaxALT2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignWebProjetIntra/img/GodKeanu.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignWebProjetIntra/img/KeanuCarousel1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignWebProjetIntra/img/KeanuCarousel2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignWebProjetIntra/img/KeanuCarousel3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignWebProjetIntra/img/Meme.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignWebProjetIntra/img/Meme2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignWebProjetIntra/img/Memes.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignWebProjetIntra/img/Memester2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignWebProjetIntra/img/Memester3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignWebProjetIntra/img/REdditFavicon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignWebProjetIntra/img/communistParallax.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignWebProjetIntra/img/karl-marx.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignWebProjetIntra/img/keanuimg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignWebProjetIntra/img/memester1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignWebProjetIntra/page2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignWebProjetIntra/page3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiniLadd/js/javascript.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../EssaiFacebook/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../EssaiFacebook/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ExercisesThedford/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ExercisesThedford/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MiniLadd/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MiniLadd/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MiniLadd/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../MiniLadd/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NavBaretCarrouselEtFavicon/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../NavBaretCarrouselEtFavicon/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NavBaretCarrouselEtFavicon/page3.html" beforeDir="false" afterPath="$PROJECT_DIR$/../NavBaretCarrouselEtFavicon/page3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../formulaire/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../formulaire/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -22,8 +53,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-170">
-              <caret line="8" column="69" lean-forward="true" selection-start-line="8" selection-start-column="69" selection-end-line="8" selection-end-column="69" />
+            <state relative-caret-position="223">
+              <caret line="43" column="24" selection-start-line="43" selection-start-column="24" selection-end-line="43" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -31,7 +62,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="529">
+            <state relative-caret-position="1275">
               <caret line="75" column="28" selection-start-line="75" selection-start-column="28" selection-end-line="75" selection-end-column="28" />
             </state>
           </provider>
@@ -125,17 +156,21 @@
       <updated>1569500619458</updated>
       <workItem from="1569500621046" duration="3499000" />
       <workItem from="1570193915541" duration="32000" />
+      <workItem from="1570631605941" duration="1221000" />
+      <workItem from="1570709716060" duration="1602000" />
+      <workItem from="1570815068686" duration="639000" />
+      <workItem from="1570830283401" duration="15000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3531000" />
+    <option name="totallyTimeSpent" value="7008000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25340393" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2685325" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -160,17 +195,17 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/css/style.css">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="529">
-          <caret line="75" column="28" selection-start-line="75" selection-start-column="28" selection-end-line="75" selection-end-column="28" />
+        <state relative-caret-position="223">
+          <caret line="43" column="24" selection-start-line="43" selection-start-column="24" selection-end-line="43" selection-end-column="24" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-170">
-          <caret line="8" column="69" lean-forward="true" selection-start-line="8" selection-start-column="69" selection-end-line="8" selection-end-column="69" />
+        <state relative-caret-position="1275">
+          <caret line="75" column="28" selection-start-line="75" selection-start-column="28" selection-end-line="75" selection-end-column="28" />
         </state>
       </provider>
     </entry>

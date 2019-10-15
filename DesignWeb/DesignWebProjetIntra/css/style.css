@@ -1,0 +1,193 @@
+html,body
+{
+    height: 100%;
+}
+.black
+{
+    background-color: black;
+}
+.rouge
+{
+    background-color: red;
+}
+
+.bleu
+{
+    background-color: blue;
+}
+
+.jaune
+{
+    background-color: yellow;
+}
+
+.vert
+{
+    background-color: green;
+}
+
+.bgimg
+{
+
+    background-image: url("../img/gris.jpg");
+
+    background-position: center;
+    width: 100%;
+    height: 500px;
+    text-align: center;
+
+    padding-top: 100px;
+}
+
+hr
+{
+    width: 70px;
+}
+
+.RRR
+{
+    background-color: red;
+    text-align: center;
+    height: 250px;
+    padding-top: 40px;
+}
+
+.Zfa
+{
+
+    padding-top: 50px;
+}
+
+.cen
+{
+    text-align: center;
+
+}
+
+p{
+    text-align: center;
+}
+
+img
+{
+    height:100%;
+    width: 100%;
+}
+
+.banniERRE
+{
+    width: 100%;
+    height: 100%;
+}
+
+
+/*Cell*/
+@media only screen and (max-width: 480px)
+{
+    .parrallax
+    {
+        /* L'image que tu veux*/
+        background-image: url("../img/CommunistParallaxALT1.jpg") ;
+        background-repeat: no-repeat;
+        width: 100%;
+        background-position: center;
+    }
+}
+
+/* TABLETTES */
+@media screen and (min-width: 481px) and (max-width: 1199px)
+{
+    .parrallax
+    {
+        /* L'image que tu veux*/
+        background-image: url("../img/CommunistParallaxALT2.jpg") ;
+        background-repeat: no-repeat;
+
+    }
+}
+
+
+/*Ordi*/
+@media screen and (min-width: 1200px)
+{
+    .parrallax
+    {
+
+        /* L'image que tu veux*/
+        background-image: url("../img/communistParallax.jpg") ;
+
+        /*l'hauteur du parallax*/
+
+        /*Création de l'effets*/
+        background-attachment: fixed;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+}
+
+
+
+
+
+/*Media query's pour la page 1*/
+@media only screen and (max-width: 480px)
+{
+
+}
+/* TABLETTES */
+@media screen and (min-width: 481px) and (max-width: 1199px)
+{
+
+}
+@media screen and (min-width: 1200px)
+{
+
+}
+
+
+/*Media query's pour la page 2*/
+@media only screen and (max-width: 480px)
+{
+
+}
+/* TABLETTES */
+@media screen and (min-width: 481px) and (max-width: 1199px)
+{
+
+}
+@media screen and (min-width: 1200px)
+{
+
+}
+
+
+
+
+/*Media query's pour la page 3*/
+@media only screen and (max-width: 480px)
+{
+
+}
+/* TABLETTES */
+@media screen and (min-width: 481px) and (max-width: 1199px)
+{
+
+}
+@media screen and (min-width: 1200px)
+{
+
+}
+
+.REMMMMMM
+{
+    font-size: 0.9REM;
+}
+/*1REM==16px
+Juste pour le texte
+Tu devra te créer une classe pour changer la taille du texte
+ex:
+.REMMMMMMMM
+{
+font-size:blahblahREM
+}*/

@@ -1,38 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f2be3d3a-61b3-4744-a411-eba4a120adb3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../DesignWebProjetIntra/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DesignWebProjetIntra/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DesignWebProjetIntra/img/BanniereALT1P1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DesignWebProjetIntra/img/BanniereALT1P2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DesignWebProjetIntra/img/BanniereALT1P3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DesignWebProjetIntra/img/BanniereALT2P1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DesignWebProjetIntra/img/BanniereALT2P2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DesignWebProjetIntra/img/BanniereALT2P3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DesignWebProjetIntra/img/BannierePage1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DesignWebProjetIntra/img/BannierePage2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DesignWebProjetIntra/img/BannierePage3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DesignWebProjetIntra/img/Blyat.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DesignWebProjetIntra/img/CommunistParallaxALT1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DesignWebProjetIntra/img/CommunistParallaxALT2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DesignWebProjetIntra/img/GodKeanu.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DesignWebProjetIntra/img/KeanuCarousel1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DesignWebProjetIntra/img/KeanuCarousel2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DesignWebProjetIntra/img/KeanuCarousel3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DesignWebProjetIntra/img/REdditFavicon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DesignWebProjetIntra/img/communistParallax.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DesignWebProjetIntra/img/karl-marx.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DesignWebProjetIntra/page2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DesignWebProjetIntra/page3.html" afterDir="false" />
+    <list default="true" id="793414f3-d93e-4cfb-a6f1-9b4d04b38fa8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/BanniereALT1P1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/BanniereALT1P2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/BanniereALT1P3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/BanniereALT2P1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/BanniereALT2P2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/BanniereALT2P3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/BannierePage1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/BannierePage2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/BannierePage3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Blyat.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/CommunistParallaxALT1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/CommunistParallaxALT2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/GodKeanu.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/KeanuCarousel1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/KeanuCarousel2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/KeanuCarousel3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Meme.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Meme2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Memes.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Memester2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Memester3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/REdditFavicon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/communistParallax.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/karl-marx.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/keanuimg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/memester1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/page2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/page3.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../MiniLadd/js/javascript.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../EssaiFacebook/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../EssaiFacebook/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ExercisesThedford/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ExercisesThedford/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../JumbotronModal/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JumbotronModal/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../MiniLadd/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MiniLadd/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../MiniLadd/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../MiniLadd/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/page3.html" beforeDir="false" afterPath="$PROJECT_DIR$/page3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NavBaretCarrouselEtFavicon/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../NavBaretCarrouselEtFavicon/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NavBaretCarrouselEtFavicon/page3.html" beforeDir="false" afterPath="$PROJECT_DIR$/../NavBaretCarrouselEtFavicon/page3.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../formulaire/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../formulaire/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -46,8 +53,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="291">
-              <caret line="77" column="80" lean-forward="true" selection-start-line="77" selection-start-column="80" selection-end-line="77" selection-end-column="80" />
+            <state relative-caret-position="121">
+              <caret line="123" column="32" selection-start-line="123" selection-start-column="32" selection-end-line="123" selection-end-column="32" />
             </state>
           </provider>
         </entry>
@@ -55,8 +62,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/page2.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" selection-start-line="6" selection-end-line="6" />
+            <state relative-caret-position="544">
+              <caret line="32" selection-start-line="32" selection-end-line="32" />
             </state>
           </provider>
         </entry>
@@ -64,8 +71,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/page3.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="23" column="58" selection-start-line="23" selection-start-column="58" selection-end-line="23" selection-end-column="58" />
+            <state relative-caret-position="-272">
+              <caret line="168" column="20" selection-start-line="168" selection-start-column="20" selection-end-line="168" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -73,8 +80,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1326">
-              <caret line="78" column="15" selection-start-line="78" selection-start-column="15" selection-end-line="78" selection-end-column="15" />
+            <state relative-caret-position="-1239">
+              <caret line="92" column="35" selection-start-line="92" selection-start-column="35" selection-end-line="92" selection-end-column="35" />
             </state>
           </provider>
         </entry>
@@ -95,9 +102,9 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/css/style.css" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/page2.html" />
         <option value="$PROJECT_DIR$/page3.html" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -113,23 +120,23 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="NavBaretCarrouselEtFavicon" type="b2602c69:ProjectViewProjectNode" />
-              <item name="NavBaretCarrouselEtFavicon" type="462c0819:PsiDirectoryNode" />
+              <item name="DesignWebProjetIntra" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DesignWebProjetIntra" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="NavBaretCarrouselEtFavicon" type="b2602c69:ProjectViewProjectNode" />
-              <item name="NavBaretCarrouselEtFavicon" type="462c0819:PsiDirectoryNode" />
+              <item name="DesignWebProjetIntra" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DesignWebProjetIntra" type="462c0819:PsiDirectoryNode" />
               <item name="img" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -138,7 +145,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Thierry Nadeau\Documents\GitHub\aDudeFromDunwall\DesignWeb\NavBaretCarrouselEtFavicon\img" />
+      <recent name="C:\Users\Thierry Nadeau\Documents\GitHub\aDudeFromDunwall\DesignWeb\DesignWebProjetIntra\img" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -158,29 +165,29 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="f2be3d3a-61b3-4744-a411-eba4a120adb3" name="Default Changelist" comment="" />
-      <created>1569000948610</created>
+      <changelist id="793414f3-d93e-4cfb-a6f1-9b4d04b38fa8" name="Default Changelist" comment="" />
+      <created>1570554907674</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1569000948610</updated>
-      <workItem from="1569000949998" duration="3278000" />
-      <workItem from="1569342923488" duration="7127000" />
-      <workItem from="1569499946225" duration="1273000" />
-      <workItem from="1570193950007" duration="282000" />
-      <workItem from="1570555263460" duration="1338000" />
-      <workItem from="1570631543044" duration="38000" />
-      <workItem from="1570714654249" duration="789000" />
+      <updated>1570554907674</updated>
+      <workItem from="1570554909012" duration="6165000" />
+      <workItem from="1570631585187" duration="8984000" />
+      <workItem from="1570709686222" duration="7813000" />
+      <workItem from="1570730528167" duration="782000" />
+      <workItem from="1570813809900" duration="7535000" />
+      <workItem from="1570830301928" duration="268000" />
+      <workItem from="1571147442505" duration="1595000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14125000" />
+    <option name="totallyTimeSpent" value="33142000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12481089" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27231467" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -205,37 +212,58 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/img/Favicon.ico">
+    <entry file="file://$PROJECT_DIR$/img/BanniereALT2P1.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/img/actor1CarouselPage3.jpg">
+    <entry file="file://$PROJECT_DIR$/img/communistParallax.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="291">
-          <caret line="77" column="80" lean-forward="true" selection-start-line="77" selection-start-column="80" selection-end-line="77" selection-end-column="80" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/img/CommunistParallaxALT1.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/CommunistParallaxALT2.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/KeanuCarousel2.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/KeanuCarousel1.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/KeanuCarousel3.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/Memes.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/memester1.jpg">
+      <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/page2.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        <state relative-caret-position="544">
+          <caret line="32" selection-start-line="32" selection-end-line="32" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/page3.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" column="58" selection-start-line="23" selection-start-column="58" selection-end-line="23" selection-end-column="58" />
+        <state relative-caret-position="-272">
+          <caret line="168" column="20" selection-start-line="168" selection-start-column="20" selection-end-line="168" selection-end-column="20" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1326">
-          <caret line="78" column="15" selection-start-line="78" selection-start-column="15" selection-end-line="78" selection-end-column="15" />
+        <state relative-caret-position="-1239">
+          <caret line="92" column="35" selection-start-line="92" selection-start-column="35" selection-end-line="92" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="121">
+          <caret line="123" column="32" selection-start-line="123" selection-start-column="32" selection-end-line="123" selection-end-column="32" />
         </state>
       </provider>
     </entry>

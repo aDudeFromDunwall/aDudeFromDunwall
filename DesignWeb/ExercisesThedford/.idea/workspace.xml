@@ -2,11 +2,31 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7bcbafff-6868-4c5d-b548-0c39f1d8706c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../formulaire/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../formulaire/formulaireEnvoyer.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../formulaire/img/maxresdefault.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../formulaire/recherche.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignWebProjetIntra/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignWebProjetIntra/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignWebProjetIntra/img/BanniereALT1P1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignWebProjetIntra/img/BanniereALT1P2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignWebProjetIntra/img/BanniereALT1P3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignWebProjetIntra/img/BanniereALT2P1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignWebProjetIntra/img/BanniereALT2P2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignWebProjetIntra/img/BanniereALT2P3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignWebProjetIntra/img/BannierePage1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignWebProjetIntra/img/BannierePage2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignWebProjetIntra/img/BannierePage3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignWebProjetIntra/img/Blyat.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignWebProjetIntra/img/REdditFavicon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignWebProjetIntra/img/communistParallax.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignWebProjetIntra/img/karl-marx.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignWebProjetIntra/page2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignWebProjetIntra/page3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiniLadd/js/javascript.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JumbotronModal/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JumbotronModal/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MiniLadd/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MiniLadd/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MiniLadd/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../MiniLadd/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NavBaretCarrouselEtFavicon/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../NavBaretCarrouselEtFavicon/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NavBaretCarrouselEtFavicon/page3.html" beforeDir="false" afterPath="$PROJECT_DIR$/../NavBaretCarrouselEtFavicon/page3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../formulaire/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../formulaire/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,7 +39,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1447">
+            <state relative-caret-position="529">
               <caret line="173" column="31" selection-start-line="173" selection-start-column="31" selection-end-line="173" selection-end-column="31" />
             </state>
           </provider>
@@ -76,6 +96,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -92,7 +113,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -130,17 +150,19 @@
       <workItem from="1569931091914" duration="16314000" />
       <workItem from="1570104574135" duration="1054000" />
       <workItem from="1570192366320" duration="365000" />
+      <workItem from="1570639360356" duration="694000" />
+      <workItem from="1570709667549" duration="11000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19532000" />
+    <option name="totallyTimeSpent" value="20237000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20953101" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21558245" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -170,7 +192,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1447">
+        <state relative-caret-position="529">
           <caret line="173" column="31" selection-start-line="173" selection-start-column="31" selection-end-line="173" selection-end-column="31" />
         </state>
       </provider>
