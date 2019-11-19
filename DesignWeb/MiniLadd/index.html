@@ -11,12 +11,43 @@
     <link rel="stylesheet" href="css/style.css">
     <link rel="icon" href="img/Mini_ladd_new_logo.jpg" type="image/ico" sizes="16x16">
 
-
+    <script src="js/jquery-3.4.1.min.js" defer></script>
+    <script src="js/bootstrap.js" defer></script>
+    <script src="js/javascript.js" defer></script>
 </head>
 <body>
 
-<alert></alert>
 
+<header>
+    <nav class="navbar navbar-expand-lg navbar-dark bg-success fixed-top">
+        <a class="navbar-brand" href="#"><i class="fa fa-fw fa-home"></i>Page 2</a>
+
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav"   aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+
+            <i class="fas fa-hamburger fa-2x"></i>
+        </button>
+
+        <div class="collapse navbar-collapse"  id="navbarNav">
+            <ul class="navbar-nav mr-auto">
+                <li class="nav-item active"><a class="nav-link" href="page2.html">Page 1 <span class="sr-only">(current)</span></a></li>
+                <li class="nav-item active"><a class="nav-link" href="index.html">Page 2 <span class="sr-only">(current)</span></a></li>
+                <li class="nav-item active"><a class="nav-link" href="page3.html">Page 3<span class="sr-only">(current)</span></a></li>
+
+            </ul>
+        </div>
+    </nav>
+</header>
+
+<div class="container-fluid">
+    <div class="row text-center">
+        <div class="col-xl-12">
+            <img class="pt-xl-5" src="img/Art1.jpg" height="100%"/>
+        </div>
+    </div>
+</div>
+<br>
+<hr>
+<br>
  <div class="container-fluid py-xl-3 px-xl-3">
      <div class="row text-center">
          <div class="col-xl-12">
@@ -25,6 +56,7 @@
 
      </div>
  </div>
+
 
 <div class="container-fluid px-xl-3 py-xl-3">
     <div class="row text-center">
@@ -38,7 +70,7 @@
                             <h5 class="py-3">Mini Ladd /Craig</h5>
 
 
-                            <img src="img/mini.jpg" width="150px"/>
+                            <img id="minipicture" src="img/mini.jpg" width="150px"/>
                             <br>
                             <br>
                         </div>
@@ -107,7 +139,7 @@
                                 <h5 class="py-3">Sami/SuniDey</h5>
 
 
-                                <img src="img/samy.png" width="150px"/>
+                                <img id="samipicture" src="img/samy.png" width="150px"/>
                                 <br>
                                 <br>
                             </div>
@@ -121,10 +153,6 @@
                                     going from sea of thieves to Fortnite to just discussions. She has currently (I checked while programming) 142
                                     ,1k follower on twitch.They kinda met each other because of Mini's car accident and because both of them knew Jay(video in mini's channel for more precise info).(for this point forward im saying what I think. not any evidence found online to prove what im saying)
                                     She looks like an adorable person enjoying life with her dogs/boyfriend/girafes? They both think alike and there happy together so im truly happy for them.</p>
-
-
-
-
 
                             </div>
                         </div>
@@ -161,7 +189,7 @@
                     <div class="card bg-light mb-3">
                         <div class="card-body">
                             <h5 class="py-3">Orion</h5>
-                            <img src="img/Orion.jpg" width="150px"/>
+                            <img id="Orionpicture" src="img/Orion.jpg" width="150px"/>
                             <br>
                             <br>
                         </div>
@@ -205,7 +233,7 @@
                             <h5 class="py-3">Yui</h5>
 
 
-                            <img src="img/yui.jpg" width="150px"/>
+                            <img id="yuipicture" src="img/yui.jpg" width="150px"/>
                             <br>
                             <br>
                         </div>
@@ -245,7 +273,7 @@
 
     <div class="row text-center">
 
-        <div class="col-xl-3 col-md-12 col-12 part1"><!--Ty the editor-->
+        <div class=" offset-xl-3 col-xl-3 col-md-12 col-12 part1"><!--Ty the editor-->
 
             <div class="card bg-light mb-3">
                 <div class="card-body">
@@ -265,7 +293,8 @@
                         <div class="card-body">
                             <h3 class="py-5">Description :</h3>
 
-                            <p></p>
+                            <p>From what I know, he told mini that he could edit his video while mini would recover from his
+                            car accident. Ty continued editing for mini after he recovered.</p>
 
                         </div>
                     </div>
@@ -284,7 +313,8 @@
 
                     <a href="https://twitter.com/WiddasTy">Twitter</a>
                     <br>
-                    <p>Sorry ty I couldn't find your website.</p>
+                    <p>Sorry ty I couldn't find your website.
+                    also. *Drums noise*</p>
                 </div>
             </div>
         </div>
@@ -309,27 +339,23 @@
                         <div class="card-body">
                             <h3 class="py-5">Description :</h3>
 
-                            <p>He's bassically a meme. Still waiting for his bowling ball girlfriend (altough samy would probably be pussed if
+                            <p>He's bassically a meme. Still waiting for his bowling ball girlfriend (altough samy would probably be pissed if
                                 its supposed to be her)</p>
 
                         </div>
                     </div>
 
-
                     <div class="alert alert-success alert-dismissible fade show" role="alert">
                         <strong>HEY</strong>
                         <br>
-
-
 
                         <button type="button" class="close" data-dismiss="alert" aria-label="Close">
                             <span aria-hidden="true">&times;</span>
                         </button>
                     </div>
 
-                    <a href="https://twitter.com/WiddasTy">Twitter</a>
-                    <br>
-                    <p>Sorry ty I couldn't find your website.</p>
+
+
                 </div>
             </div>
         </div>
@@ -370,11 +396,10 @@
 
 
 
-<script src="js/jquery-3.4.1.min.js"></script>
-<script src="js/bootstrap.js"></script>
+
 
 <script src="https://kit.fontawesome.com/a46d75ba7a.js"></script>
- <script src="js/javascript.js"></script>
+
 </body>
 </html>
 

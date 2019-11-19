@@ -1,23 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7c101c27-d387-4127-a2d4-a4374d7f0ab2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Comicon2019/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Comicon2019/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Comicon2019/img/Arrow-seizoen-6-Netflix-1-810x456.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Comicon2019/img/VaderImmortal2-810x456.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Comicon2019/img/batman.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Comicon2019/img/flash-810x456.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Comicon2019/img/hulk-costume-810x456.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Comicon2019/img/obiwan-feat-min.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Comicon2019/img/spiderman-810x456.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Comicon2019/img/superman-810x456.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Comicon2019/img/thor-810x456.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Comicon2019/img/yoda-810x456.jpg" afterDir="false" />
+    <list default="true" id="7a53d928-485f-412d-aaa5-5118e6f6177b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Arrow-seizoen-6-Netflix-1-810x456.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/VaderImmortal2-810x456.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/batman.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/flash-810x456.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/hulk-costume-810x456.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/obiwan-feat-min.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/spiderman-810x456.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/superman-810x456.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/thor-810x456.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/yoda-810x456.jpg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../MiniLadd/img/Art1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiniLadd/img/OrionALT.jpg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../MiniLadd/img/miniladd-png.png" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../MiniLadd/img/minimeme.jpg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../MiniLadd/img/p2minihover.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiniLadd/img/sunideyALT.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiniLadd/img/yuiALT.jpg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../evenementsJavascript/.idea/encodings.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../evenementsJavascript/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../evenementsJavascript/img/1q0rs1.jpg" afterDir="false" />
@@ -31,7 +34,7 @@
       <change beforePath="$PROJECT_DIR$/../MiniLadd/page2.html" beforeDir="false" afterPath="$PROJECT_DIR$/../MiniLadd/page2.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Template/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Template/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Template/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Template/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../formulaire/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../formulaire/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -44,29 +47,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1139">
-              <caret line="67" column="8" selection-start-line="67" selection-start-column="8" selection-end-line="67" selection-end-column="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/recherche.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="529">
-              <caret line="171" selection-start-line="171" selection-end-line="171" />
-              <folding>
-                <element signature="n#style#0;n#iframe#0;n#div#6;n#div#4;n#div#0;n#div#0;n#div#0;n#form#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/formulaireEnvoyer.html">
-          <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="306">
-              <caret line="18" column="39" selection-start-line="18" selection-start-column="39" selection-end-line="18" selection-end-column="39" />
+              <caret line="27" column="14" lean-forward="true" selection-start-line="27" selection-start-column="14" selection-end-line="27" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -74,20 +56,22 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="663">
-              <caret line="39" column="12" selection-start-line="39" selection-start-column="12" selection-end-line="39" selection-end-column="12" />
+            <state relative-caret-position="408">
+              <caret line="24" selection-start-line="24" selection-end-line="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/js/script.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1190">
+              <caret line="175" column="33" lean-forward="true" selection-start-line="175" selection-start-column="4" selection-end-line="175" selection-end-column="33" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
-  </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="HTML File" />
-      </list>
-    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
@@ -95,10 +79,9 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/formulaireEnvoyer.html" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/css/style.css" />
-        <option value="$PROJECT_DIR$/recherche.html" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/js/script.js" />
       </list>
     </option>
   </component>
@@ -118,13 +101,8 @@
         <subPane>
           <expand>
             <path>
-              <item name="formulaire" type="b2602c69:ProjectViewProjectNode" />
-              <item name="formulaire" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="formulaire" type="b2602c69:ProjectViewProjectNode" />
-              <item name="formulaire" type="462c0819:PsiDirectoryNode" />
-              <item name="img" type="462c0819:PsiDirectoryNode" />
+              <item name="Comicon2019" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Comicon2019" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -134,12 +112,15 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/Examen2 JavaScript Photociti" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Thierry Nadeau\Documents\GitHub\aDudeFromDunwall\DesignWeb\Comicon2019" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Thierry Nadeau\Documents\GitHub\aDudeFromDunwall\DesignWeb\formulaire\img" />
+      <recent name="C:\Users\Thierry Nadeau\Documents\GitHub\aDudeFromDunwall\DesignWeb\Comicon2019\img" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -159,30 +140,26 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="7c101c27-d387-4127-a2d4-a4374d7f0ab2" name="Default Changelist" comment="" />
-      <created>1570106056764</created>
+      <changelist id="7a53d928-485f-412d-aaa5-5118e6f6177b" name="Default Changelist" comment="" />
+      <created>1573582653721</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1570106056764</updated>
-      <workItem from="1570106058868" duration="5165000" />
-      <workItem from="1570192740028" duration="6226000" />
-      <workItem from="1570553484442" duration="2832000" />
-      <workItem from="1570713787943" duration="772000" />
-      <workItem from="1570730508552" duration="17000" />
-      <workItem from="1573582681168" duration="1462000" />
-      <workItem from="1573736987293" duration="2580000" />
-      <workItem from="1573841318453" duration="75000" />
+      <updated>1573582653721</updated>
+      <workItem from="1573582655055" duration="6316000" />
+      <workItem from="1573737050583" duration="5615000" />
+      <workItem from="1573841396613" duration="2747000" />
+      <workItem from="1574185152944" duration="2970000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19129000" />
+    <option name="totallyTimeSpent" value="17648000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.057488654" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26096824" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -207,34 +184,27 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1139">
-          <caret line="67" column="8" selection-start-line="67" selection-start-column="8" selection-end-line="67" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/formulaireEnvoyer.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="39" selection-start-line="18" selection-start-column="39" selection-end-line="18" selection-end-column="39" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/img/spiderman-810x456.jpg">
+      <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="663">
-          <caret line="39" column="12" selection-start-line="39" selection-start-column="12" selection-end-line="39" selection-end-column="12" />
+        <state relative-caret-position="408">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/recherche.html">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="529">
-          <caret line="171" selection-start-line="171" selection-end-line="171" />
-          <folding>
-            <element signature="n#style#0;n#iframe#0;n#div#6;n#div#4;n#div#0;n#div#0;n#div#0;n#form#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+        <state relative-caret-position="306">
+          <caret line="27" column="14" lean-forward="true" selection-start-line="27" selection-start-column="14" selection-end-line="27" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1190">
+          <caret line="175" column="33" lean-forward="true" selection-start-line="175" selection-start-column="4" selection-end-line="175" selection-end-column="33" />
         </state>
       </provider>
     </entry>

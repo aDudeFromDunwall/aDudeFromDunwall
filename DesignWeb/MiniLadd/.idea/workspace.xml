@@ -2,9 +2,38 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="867761f0-71b3-456f-9bd1-3243c1305c52" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/js/javascript.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Comicon2019/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Comicon2019/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Comicon2019/img/Arrow-seizoen-6-Netflix-1-810x456.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Comicon2019/img/VaderImmortal2-810x456.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Comicon2019/img/batman.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Comicon2019/img/flash-810x456.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Comicon2019/img/hulk-costume-810x456.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Comicon2019/img/obiwan-feat-min.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Comicon2019/img/spiderman-810x456.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Comicon2019/img/superman-810x456.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Comicon2019/img/thor-810x456.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Comicon2019/img/yoda-810x456.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Art1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/OrionALT.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/miniladd-png.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/minimeme.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/p2minihover.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/sunideyALT.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/yuiALT.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../evenementsJavascript/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../evenementsJavascript/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../evenementsJavascript/img/1q0rs1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../evenementsJavascript/img/Ugandan-Knuckles.fw_-900x900.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../evenementsJavascript/img/frodo.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DesignWebProjetIntra/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DesignWebProjetIntra/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/javascript.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/javascript.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page2.html" beforeDir="false" afterPath="$PROJECT_DIR$/page2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Template/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Template/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Template/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Template/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../formulaire/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../formulaire/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,24 +44,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/index.html">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/page2.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="359">
-              <caret line="321" column="24" selection-start-line="321" selection-start-column="24" selection-end-line="321" selection-end-column="24" />
-              <folding>
-                <element signature="e#7546#7553#1" expanded="true" />
-                <element signature="e#8835#8842#1" expanded="true" />
-              </folding>
+            <state relative-caret-position="833">
+              <caret line="49" selection-start-line="49" selection-end-line="49" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/page2.html">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+            <state relative-caret-position="104">
+              <caret line="296" column="91" selection-start-line="296" selection-start-column="91" selection-end-line="296" selection-end-column="91" />
             </state>
           </provider>
         </entry>
@@ -40,8 +65,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/javascript.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" column="33" lean-forward="true" selection-start-line="1" selection-start-column="33" selection-end-line="1" selection-end-column="33" />
+            <state relative-caret-position="291">
+              <caret line="38" column="18" selection-start-line="38" selection-start-column="18" selection-end-line="38" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -49,8 +74,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="529">
-              <caret line="66" selection-start-line="66" selection-end-line="66" />
+            <state relative-caret-position="442">
+              <caret line="26" column="28" selection-start-line="26" selection-start-column="28" selection-end-line="26" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -148,17 +173,22 @@
       <workItem from="1570192711903" duration="6981000" />
       <workItem from="1570199904472" duration="526000" />
       <workItem from="1570208819070" duration="3773000" />
+      <workItem from="1572374921527" duration="744000" />
+      <workItem from="1573135201418" duration="2743000" />
+      <workItem from="1573581696955" duration="2461000" />
+      <workItem from="1573740724364" duration="25000" />
+      <workItem from="1573843545187" duration="2759000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11280000" />
+    <option name="totallyTimeSpent" value="20012000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25718608" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27609682" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -183,35 +213,61 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/css/style.css">
+    <entry file="file://$PROJECT_DIR$/img/Art1.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/bootstrap.bundle.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="529">
-          <caret line="66" selection-start-line="66" selection-end-line="66" />
+        <state>
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/javascript.js">
+    <entry file="file://$PROJECT_DIR$/js/bootstrap.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="33" lean-forward="true" selection-start-line="1" selection-start-column="33" selection-end-line="1" selection-end-column="33" />
+        <state>
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/page2.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+        <state relative-caret-position="833">
+          <caret line="49" selection-start-line="49" selection-end-line="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/samy.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/yui.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/yuiALT.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" column="28" selection-start-line="26" selection-start-column="28" selection-end-line="26" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/javascript.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="291">
+          <caret line="38" column="18" selection-start-line="38" selection-start-column="18" selection-end-line="38" selection-end-column="18" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="359">
-          <caret line="321" column="24" selection-start-line="321" selection-start-column="24" selection-end-line="321" selection-end-column="24" />
-          <folding>
-            <element signature="e#7546#7553#1" expanded="true" />
-            <element signature="e#8835#8842#1" expanded="true" />
-          </folding>
+        <state relative-caret-position="104">
+          <caret line="296" column="91" selection-start-line="296" selection-start-column="91" selection-end-line="296" selection-end-column="91" />
         </state>
       </provider>
     </entry>

@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html lang="fr-ca">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <title>Title</title>
+
+
+    <script src="https://kit.fontawesome.com/a46d75ba7a.js"></script>
+    <link rel="stylesheet" href="css/bootstrap.css">
+    <link rel="stylesheet" href="css/style.css">
+    <script src="js/jquery-3.4.1.min.js" defer></script>
+    <script src="js/bootstrap.js" defer></script>
+    <script src="js/script.js" defer></script>
+
+
+</head>
+<body>
+
+
+
+
+<form class="px-xl-2 py-xl-3">
+    <div class="form-row">
+        <div class="form-group col-xl-12">
+            <label for="inputNom">Nom d'usager</label>
+            <input type="Nom" class="form-control" id="inputNom" placeholder="Votre Nom">
+        </div>
+        <div class="form-group col-xl-12">
+            <label for="inputMDP">Mots de passe</label>
+            <input type="password" class="form-control" id="inputMDP" placeholder="Mots de passe">
+            <p id="forceMDP" class="text-left">indéterminer</p>
+        </div>
+        <div class="form-group col-xl-12">
+            <label for="inputMDPC">Mots de passe</label>
+            <input type="passwordC" class="form-control" id="inputMDPC" placeholder="confirmation du mots de passe">
+            <p id="confmdp" class="text-left">indéterminer</p>
+        </div>
+        <div class="form-group col-xl-12">
+            <label for="inputcourriel">Courriel</label>
+            <input type="courriel" class="form-control" id="inputcourriel" placeholder="courriel">
+            <p id="yeet" class="text-left">Rien d'écrit</p>
+        </div>
+    </div>
+
+    <div class="form-row">
+        <div class="form-group col-xl-12 col-md-12 col-12">
+            <p class="text-left">Veuillez sélectionner votre univers :</p>
+            <input id="STARWARSB" type="radio" name="univers" value="StarsWars">Stars Wars<br>
+            <input id="DCB" type="radio" name="univers" value="DC">DC<br>
+            <input id="MarvelB" type="radio" name="univers" value="Marvel">Marvel<br>
+        </div>
+    </div>
+
+    <div class="">
+        <div class="row text-center">
+            <div class="col-xl-12" id="Starwars"><!--stars wars-->
+
+                <img id="SWimgSELEC"src="img/yoda-810x456.jpg" height="456" width="810"/>
+                <br>
+                <br>
+                <input id="yodaB" type="radio" name="perso" value="yoda">yoda<br>
+                <input id="obiwanB" type="radio" name="perso" value="obiwan">obi-wan<br>
+                <input id="DarthVaderB" type="radio" name="perso" value="DarthVader">Darth Vader<br>
+                <br>
+                <br>
+                <small>
+                    <p id="blyat" class="">Valide</p>
+                </small>
+                <br>
+                <br>
+                <button id="buttonsubmitSW" class="btn-success btnMort">Submit</button>
+            </div>
+            <div class="col-xl-12" id="DC"><!--DC-->
+
+                <img id="DCIMGSELEC" src="img/batman.jpg" height="456" width="810"/>
+                <br>
+                <br>
+                <input id="BatmanB" type="radio" name="perso1" value="Batman">Batman<br>
+                <input id="supermanB" type="radio" name="perso1" value="Super-man">Super-Man<br>
+                <input id="flashB" type="radio" name="perso1" value="Flash">Flash<br>
+                <input id="arrowB" type="radio" name="perso1" value="Arrow">Arrow<br>
+                <br>
+                <br>
+                <small>
+                    <p id="blyat2" class="">Valide</p>
+                </small>
+                <br>
+                <br>
+                <button id="buttonsubmitDC" class="btn-success btnMort">Submit</button>
+            </div>
+            <div class="col-xl-12" id="Marvel"><!--Marvel-->
+
+                <img id="MARVELimgSELEC" src="img/spiderman-810x456.jpg" height="456" width="810"/>
+                <br>
+                <br>
+                <input id="spidermanB" type="radio" name="perso2" value="Spider-man">Spider-Man<br>
+                <input id="ThorB" type="radio" name="perso2" value="Thor">Thor<br>
+                <input id="HulkB" type="radio" name="perso2" value="Hulk">Hulk<br>
+                <br>
+                <br>
+                <small>
+                    <p id="blyat3" class="">Valide</p>
+                </small>
+                <br>
+                <br>
+                <button id="buttonsubmitMV" class="btn-success btnMort">Submit</button>
+            </div>
+        </div>
+
+    </div>
+
+
+
+</form>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script src="js/jquery-3.4.1.min.js"></script>
+<script src="js/bootstrap.js"></script>
+
+<script src="https://kit.fontawesome.com/a46d75ba7a.js"></script>
+
+</body>
+</html>
+
+
+
+
+
+<!-- étape pour envoyer ton site sur github a partir de gitbash
+1)ouvrir gitbash
+2)écrire : cd
+3)écrire : cd Mes \ documents/                 ( tu entre dans le fichier ou tu veux dropper ton site dans ce cas c Mes documents)
+4)écrire : cd GitHub/                           ( tu entre dans ton fichier Github)
+5)écrire : cd aDudeFromDunwall                 ( tu entre dans le fichier aDudeFromDunwall)
+6)écrire : git add DesignWeb/                  (DesignWeb est le nom du fichier vers lequel tu veux l'envoyer)
+7)écrire : git commit -m "le message qui résume ce que tu envoie genre: site web sur les fruits ou modifications des images"
+8)écrire : git push
+
+ps: utilise tab pour raccourcir l'écriture
+fini-->
+
+
+
+
+
+<!--étape pour comment se rendre sur un site que tu a publier sur github
+ 1) cliquer sur le truc qui s'appelle site dans la barre des favoris
+ 2) garder l'url
+ 3)Aller a partir de GitHub sur l'index de ton site (toujours sur github)
+ 4)cliquer sur copy path
+ 5)prendre l'url du #2 et rajouter le path du #4 après
+ 6)fini
+ -->

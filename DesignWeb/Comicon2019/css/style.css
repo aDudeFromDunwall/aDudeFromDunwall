@@ -22,9 +22,18 @@ html,body
     background-color: green;
 }
 
-.blackKKKK
+
+.bgimg
 {
-    background-color: black;
+
+    background-image: url("../img/gris.jpg");
+
+    background-position: center;
+    width: 100%;
+    height: 500px;
+    text-align: center;
+
+    padding-top: 100px;
 }
 
 hr
@@ -56,15 +65,18 @@ p{
     text-align: center;
 }
 
-
+img
+{
+    height:100%;
+    width: 100%;
+}
 
 .parrallax
 {
     /* L'image que tu veux*/
-    background-image: url("/img/Art1.jpg");
+    /*Background image ici*/
 
     /*l'hauteur du parallax*/
-    height: 100%;
 
     /*Création de l'effets*/
     background-attachment: fixed;
