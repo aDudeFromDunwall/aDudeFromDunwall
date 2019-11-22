@@ -41,7 +41,7 @@ $('#inputmot').keypress(function(event){
         {
             if (grandeur==3)
             {
-                $('#case'+i).attr("class","col-xl-4");
+                $('#case'+i).attr("class","col-4");
 
                 if (mot[i]!="*")
                 {
@@ -58,7 +58,7 @@ $('#inputmot').keypress(function(event){
             }
             else if(grandeur==4)
             {
-                $('#case'+i).attr("class","col-xl-3");
+                $('#case'+i).attr("class","col-3");
 
                 if (mot[i]!="*")
                 {
@@ -75,7 +75,7 @@ $('#inputmot').keypress(function(event){
             }
             else if (grandeur==5 || grandeur==6)
             {
-                $('#case'+i).attr("class","col-xl-2");
+                $('#case'+i).attr("class","col-2");
 
                 if (mot[i]!="*")
                 {
@@ -92,7 +92,7 @@ $('#inputmot').keypress(function(event){
             }
             else if(grandeur<=12 || grandeur>6)
             {
-                $('#case'+i).attr("class","col-xl-1");
+                $('#case'+i).attr("class","col-1");
 
                 if (mot[i]!="*")
                 {
@@ -141,7 +141,7 @@ $('#boutton').click(function ()
     {
         if (grandeur==3)
         {
-            $('#case'+i).attr("class","col-xl-4");
+            $('#case'+i).attr("class","col-4");
 
             if (mot[i]!="*")
             {
@@ -157,7 +157,7 @@ $('#boutton').click(function ()
         }
         else if(grandeur==4)
         {
-            $('#case'+i).attr("class","col-xl-3");
+            $('#case'+i).attr("class","col-3");
 
 
             if (mot[i]!="*")
@@ -173,7 +173,7 @@ $('#boutton').click(function ()
         }
         else if (grandeur==5 || grandeur==6)
         {
-            $('#case'+i).attr("class","col-xl-2");
+            $('#case'+i).attr("class","col-2");
 
             if (mot[i]!="*")
             {
@@ -189,7 +189,7 @@ $('#boutton').click(function ()
         }
         else if (grandeur<=12 || grandeur>6)
         {
-            $('#case'+i).attr("class","col-xl-1");
+            $('#case'+i).attr("class","col-1");
 
             if (mot[i]!="*")
             {
