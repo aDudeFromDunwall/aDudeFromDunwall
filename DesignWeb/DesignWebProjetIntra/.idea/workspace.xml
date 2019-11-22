@@ -2,21 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="793414f3-d93e-4cfb-a6f1-9b4d04b38fa8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../MiniLadd/img/Art1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MiniLadd/img/minimeme.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../evenementsJavascript/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../evenementsJavascript/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../evenementsJavascript/img/1q0rs1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../evenementsJavascript/img/Ugandan-Knuckles.fw_-900x900.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../evenementsJavascript/img/frodo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Examen2 JavaScript Photociti/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Comicon2019/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Comicon2019/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MiniLadd/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MiniLadd/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MiniLadd/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/../MiniLadd/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MiniLadd/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../MiniLadd/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MiniLadd/js/javascript.js" beforeDir="false" afterPath="$PROJECT_DIR$/../MiniLadd/js/javascript.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MiniLadd/page2.html" beforeDir="false" afterPath="$PROJECT_DIR$/../MiniLadd/page2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Template/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Template/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Template/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Template/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Examen2 JavaScript Photociti/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Examen2 JavaScript Photociti/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Examen2 JavaScript Photociti/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/../Examen2 JavaScript Photociti/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Examen2 JavaScript Photociti/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Examen2 JavaScript Photociti/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Examen2 JavaScript Photociti/js/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Examen2 JavaScript Photociti/js/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NavBaretCarrouselEtFavicon/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../NavBaretCarrouselEtFavicon/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -26,11 +19,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
-              <caret line="34" column="9" selection-start-line="16" selection-end-line="34" selection-end-column="9" />
+            <state relative-caret-position="323">
+              <caret line="19" selection-start-line="19" selection-end-line="19" />
             </state>
           </provider>
         </entry>
@@ -38,7 +31,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/page2.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="544">
+            <state relative-caret-position="34">
               <caret line="32" selection-start-line="32" selection-end-line="32" />
             </state>
           </provider>
@@ -47,16 +40,16 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/page3.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2856">
-              <caret line="168" column="20" selection-start-line="168" selection-start-column="20" selection-end-line="168" selection-end-column="20" />
+            <state relative-caret-position="1564">
+              <caret line="92" column="59" selection-start-line="92" selection-start-column="59" selection-end-line="92" selection-end-column="59" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1564">
+            <state relative-caret-position="274">
               <caret line="92" column="35" selection-start-line="92" selection-start-column="35" selection-end-line="92" selection-end-column="35" />
             </state>
           </provider>
@@ -119,7 +112,7 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/Exercice jQuery1 StormTrooper" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Examen2 JavaScript Photociti" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -157,17 +150,22 @@
       <workItem from="1571147442505" duration="1819000" />
       <workItem from="1571763578909" duration="989000" />
       <workItem from="1573135860705" duration="609000" />
+      <workItem from="1574192904117" duration="541000" />
+      <workItem from="1574277701120" duration="113000" />
+      <workItem from="1574341961081" duration="36000" />
+      <workItem from="1574342551280" duration="3374000" />
+      <workItem from="1574356199239" duration="1329000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="34964000" />
+    <option name="totallyTimeSpent" value="40357000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2806354" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.30332828" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -219,37 +217,31 @@
     <entry file="file://$PROJECT_DIR$/img/memester1.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/Temp1_Exercice jQuery1 StormTrooper.zip/Exercice jQuery1 StormTrooper/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="63" lean-forward="true" selection-start-line="11" selection-start-column="63" selection-end-line="11" selection-end-column="63" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Temp1_Exercice jQuery1 StormTrooper.zip/Exercice jQuery1 StormTrooper/index.html" />
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="34" column="9" selection-start-line="16" selection-end-line="34" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/page2.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="544">
-          <caret line="32" selection-start-line="32" selection-end-line="32" />
+        <state relative-caret-position="323">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/page3.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2856">
-          <caret line="168" column="20" selection-start-line="168" selection-start-column="20" selection-end-line="168" selection-end-column="20" />
+        <state relative-caret-position="1564">
+          <caret line="92" column="59" selection-start-line="92" selection-start-column="59" selection-end-line="92" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/page2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="32" selection-start-line="32" selection-end-line="32" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1564">
+        <state relative-caret-position="274">
           <caret line="92" column="35" selection-start-line="92" selection-start-column="35" selection-end-line="92" selection-end-column="35" />
         </state>
       </provider>

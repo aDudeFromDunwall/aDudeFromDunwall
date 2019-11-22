@@ -17,85 +17,172 @@
 
 
 
-
-<form class="pt-xl-5">
+<div class="d-print-none">
     <div class="form-row ">
-        <div class="form-group offset-xl-1 col-xl-5 px-xl-3">
+        <div class="form-group offset-xl-1 pt-xl-4 col-xl-5 px-xl-3">
             <label for="inputmot">Entrer votre mot en dessous</label>
             <input type="mot" class="form-control" id="inputmot" placeholder="Votre mot içi">
         </div>
-        <button id="boutton" class="">Go</button>
+        <button id="boutton" class="mt-xl-5 pb-xl-2 boutonPropriete">Go</button>
     </div>
+</div>
 
 
-</form>
+
 
 <br>
 <br>
 
 
-<div class="container-fluid">
+<div id="backgroungcolor" class="container-fluid blackkkkkk py-xl-4">
     <div class="row">
-        <div id="case1" class="col-xl-1">
+        <div id="case0" class="col-xl-1">
 
             <img id="img0" class="img-fluid" src="Letters/J/J4.jpg"/>
         </div>
 
 
-        <div id="case2" class="col-xl-1">
+        <div id="case1" class="col-xl-1">
 
             <img id="img1" class="img-fluid" src="Letters/A/A2.jpg" />
         </div>
 
 
-        <div id="case3" class="col-xl-1">
+        <div id="case2" class="col-xl-1">
 
             <img id="img2" class="img-fluid" src="Letters/V/V2.jpg" />
         </div>
 
 
-        <div id="case4" class="col-xl-1">
+        <div id="case3" class="col-xl-1">
 
             <img id="img3" class="img-fluid" src="Letters/A/A2.jpg" />
         </div>
 
 
-        <div id="case5" class="col-xl-1">
+        <div id="case4" class="col-xl-1">
 
             <img id="img4" class="img-fluid" src="Letters/S/S2.jpg" />
         </div>
 
 
-        <div id="case6" class="col-xl-1">
-
+        <div id="case5" class="col-xl-1">
 
             <img id="img5" class="img-fluid" src="Letters/C/C2.jpg"/>
         </div>
 
 
-        <div id="case7" class="col-xl-1">
+        <div id="case6" class="col-xl-1">
 
             <img id="img6" class="img-fluid" src="Letters/R/R3.jpg" />
         </div>
 
 
-        <div id="case8" class="col-xl-1">
+        <div id="case7" class="col-xl-1">
             <img id="img7" class="img-fluid" src="Letters/I/I3.jpg" />
         </div>
 
 
-        <div id="case9" class="col-xl-1">
+        <div id="case8" class="col-xl-1">
 
             <img id="img8" class="img-fluid" src="Letters/P/P3.jpg"/>
         </div>
 
 
-        <div id="case10" class="col-xl-1">
+        <div id="case9" class="col-xl-1">
 
             <img id="img9" class="img-fluid" src="Letters/T/T4.jpg"/>
         </div>
+
+        <div id="case10" class="col-xl-1">
+
+            <img id="img10" class="img-fluid" src="Letters/T/T4.jpg"/>
+        </div>
+
+        <div id="case11" class="col-xl-1">
+
+            <img id="img11" class="img-fluid" src="Letters/T/T4.jpg"/>
+        </div>
     </div>
 </div>
+
+
+
+
+
+    <div class="modal" tabindex="-1" role="dialog" id="exampleModal">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title">Autres version de cette lettre</h5>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close" id="onFerme">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <div class="modal-body">
+
+                    <div class="jumbotron">
+                        <div class="container-fluid">
+                            <div class="row">
+                                <div class="col-xl-12 col-md-12 col-12">
+                                    <div id="myCarousel" class="carousel slide" data-ride="carousel">
+                                        <ul class="carousel-indicators">
+                                            <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+                                            <li data-target="#myCarousel" data-slide-to="1"></li>
+                                            <li data-target="#myCarousel" data-slide-to="2"></li>
+                                        </ul>
+
+                                        <div class="carousel-inner">
+                                            <div class="carousel-item active">
+                                                <img id="CarouselImg1" class="img-fluid " src="Letters/B/B2.jpg">
+                                            </div>
+                                            <div class="carousel-item">
+                                                <img id="CarouselImg2" class="img-fluid " src="Letters/K/K2.jpg">
+                                            </div>
+                                            <div class="carousel-item">
+                                                <img id="CarouselImg3" class="img-fluid " src="Letters/A/A2.jpg">
+                                            </div>
+                                            <div class="carousel-item">
+                                                <img id="CarouselImg4" class="img-fluid " src="Letters/C/C2.jpg">
+                                            </div>
+                                            <div class="carousel-item">
+                                                <img id="CarouselImg5" class="img-fluid " src="Letters/T/T2.jpg">
+                                            </div>
+                                        </div>
+
+                                        <a class="carousel-control-prev" href="#myCarousel" data-slide="prev">
+                                            <span class="carousel-control-prev-icon"></span>
+                                        </a>
+                                        <a class="carousel-control-next" href="#myCarousel" data-slide="next">
+                                            <span class="carousel-control-next-icon"></span>
+                                        </a>
+
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <br>
+                    </div>
+                    <h3>choix de couleur de fond :</h3>
+                    <br>
+                    <button id="boutonVERT" class="btn-success boutonChoixCouleur"></button>
+                    <button id="boutonRouge" class="btn-danger boutonChoixCouleur"></button>
+                    <button id="boutonBleu" class="btn-info boutonChoixCouleur"></button>
+                    <button id="boutonGris" class="btn-secondary boutonChoixCouleur"></button>
+                    <button id="boutonJaune" class="btn-warning boutonChoixCouleur"></button>
+                    <button id="boutonNoir" class="btn-dark boutonChoixCouleur"></button>
+                </div>
+                <!--<div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                </div>-->
+            </div>
+        </div>
+    </div>
+
+
+
+
 
 <script src="js/jquery-3.4.1.min.js"></script>
 <script src="js/bootstrap.js"></script>
