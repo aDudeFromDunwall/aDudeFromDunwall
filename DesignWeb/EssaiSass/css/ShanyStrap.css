@@ -1,0 +1,40 @@
+.container-fluid {
+  width: 100%;
+}
+
+.col-5 {
+  width: 20%;
+  float: left;
+}
+
+.col-7 {
+  width: 14.2857142857%;
+  float: left;
+}
+
+.col-8 {
+  width: 12.5%;
+  float: left;
+}
+
+.col-9 {
+  width: 11.1111111111%;
+  float: left;
+}
+
+.col-10 {
+  width: 10%;
+  float: left;
+}
+
+.col-11 {
+  width: 9.0909090909%;
+  float: left;
+}
+
+.img-fluid {
+  width: 100%;
+  display: block;
+}
+
+/*# sourceMappingURL=ShanyStrap.css.map */

@@ -1,3 +1,9 @@
+
+
+
+
+
+
 $('#minipicture').hover(function ()
 {
     $('#minipicture').attr("src","img/p2minihover.jpg");

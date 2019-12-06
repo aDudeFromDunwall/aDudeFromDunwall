@@ -2,8 +2,174 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="05aa31df-dade-467d-bf25-6bc45446fb5c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../EssaiSass/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EssaiSass/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EssaiSass/.idea/watcherTasks.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EssaiSass/Letters/A/A1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EssaiSass/Letters/A/A2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EssaiSass/Letters/A/A3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EssaiSass/Letters/A/A3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EssaiSass/Letters/A/A4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EssaiSass/Letters/A/A5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EssaiSass/Letters/B/B1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EssaiSass/Letters/B/B2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EssaiSass/Letters/B/B3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EssaiSass/Letters/B/B4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EssaiSass/Letters/B/B5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EssaiSass/Letters/C/C1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EssaiSass/Letters/C/C2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EssaiSass/Letters/C/C3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EssaiSass/Letters/C/C4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EssaiSass/Letters/C/C5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EssaiSass/Letters/CS/CS1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EssaiSass/Letters/CS/CS2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EssaiSass/Letters/CS/CS3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EssaiSass/Letters/CS/CS4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EssaiSass/Letters/CS/CS5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EssaiSass/Letters/D/D1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EssaiSass/Letters/D/D2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EssaiSass/Letters/D/D3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EssaiSass/Letters/D/D4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EssaiSass/Letters/D/D5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EssaiSass/Letters/E/E1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EssaiSass/Letters/E/E2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EssaiSass/Letters/E/E3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EssaiSass/Letters/E/E4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EssaiSass/Letters/E/E5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EssaiSass/Letters/F/F1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EssaiSass/Letters/F/F2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EssaiSass/Letters/F/F3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EssaiSass/Letters/F/F4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EssaiSass/Letters/F/F5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EssaiSass/Letters/G/G1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EssaiSass/Letters/G/G2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EssaiSass/Letters/G/G3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EssaiSass/Letters/G/G4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EssaiSass/Letters/G/G5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EssaiSass/Letters/H/H1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EssaiSass/Letters/H/H2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EssaiSass/Letters/H/H3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EssaiSass/Letters/H/H4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EssaiSass/Letters/H/H5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EssaiSass/Letters/I/I1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EssaiSass/Letters/I/I2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EssaiSass/Letters/I/I3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EssaiSass/Letters/I/I4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EssaiSass/Letters/I/I5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EssaiSass/Letters/J/J1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EssaiSass/Letters/J/J2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EssaiSass/Letters/J/J3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EssaiSass/Letters/J/J4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EssaiSass/Letters/J/J5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EssaiSass/Letters/K/K1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EssaiSass/Letters/K/K2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EssaiSass/Letters/K/K3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EssaiSass/Letters/K/K4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EssaiSass/Letters/K/K5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EssaiSass/Letters/L/L1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EssaiSass/Letters/L/L2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EssaiSass/Letters/L/L3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EssaiSass/Letters/L/L4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EssaiSass/Letters/L/L5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EssaiSass/Letters/M/M1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EssaiSass/Letters/M/M2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EssaiSass/Letters/M/M3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EssaiSass/Letters/M/M4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EssaiSass/Letters/M/M5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EssaiSass/Letters/N/N1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EssaiSass/Letters/N/N2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EssaiSass/Letters/N/N3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EssaiSass/Letters/N/N4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EssaiSass/Letters/N/N5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EssaiSass/Letters/O/O1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EssaiSass/Letters/O/O2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EssaiSass/Letters/O/O3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EssaiSass/Letters/O/O4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EssaiSass/Letters/O/O5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EssaiSass/Letters/P/P1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EssaiSass/Letters/P/P2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EssaiSass/Letters/P/P3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EssaiSass/Letters/P/P4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EssaiSass/Letters/P/P5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EssaiSass/Letters/Q/Q1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EssaiSass/Letters/Q/Q2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EssaiSass/Letters/Q/Q3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EssaiSass/Letters/Q/Q4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EssaiSass/Letters/Q/Q5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EssaiSass/Letters/R/R1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EssaiSass/Letters/R/R2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EssaiSass/Letters/R/R3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EssaiSass/Letters/R/R4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EssaiSass/Letters/R/R5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EssaiSass/Letters/S/S1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EssaiSass/Letters/S/S2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EssaiSass/Letters/S/S3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EssaiSass/Letters/S/S4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EssaiSass/Letters/S/S5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EssaiSass/Letters/T/T1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EssaiSass/Letters/T/T2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EssaiSass/Letters/T/T3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EssaiSass/Letters/T/T4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EssaiSass/Letters/T/T5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EssaiSass/Letters/U/U1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EssaiSass/Letters/U/U2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EssaiSass/Letters/U/U3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EssaiSass/Letters/U/U4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EssaiSass/Letters/U/U5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EssaiSass/Letters/V/V1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EssaiSass/Letters/V/V2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EssaiSass/Letters/V/V3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EssaiSass/Letters/V/V4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EssaiSass/Letters/V/V5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EssaiSass/Letters/W/W1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EssaiSass/Letters/W/W2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EssaiSass/Letters/W/W3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EssaiSass/Letters/W/W4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EssaiSass/Letters/W/W5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EssaiSass/Letters/X/X1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EssaiSass/Letters/X/X2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EssaiSass/Letters/X/X3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EssaiSass/Letters/X/X4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EssaiSass/Letters/X/X5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EssaiSass/Letters/Y/Y1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EssaiSass/Letters/Y/Y2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EssaiSass/Letters/Y/Y3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EssaiSass/Letters/Y/Y4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EssaiSass/Letters/Y/Y5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EssaiSass/Letters/Z/Z1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EssaiSass/Letters/Z/Z2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EssaiSass/Letters/Z/Z3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EssaiSass/Letters/Z/Z4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EssaiSass/Letters/Z/Z5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EssaiSass/css/ShanyStrap.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EssaiSass/css/animate.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EssaiSass/js/wow.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjetFinalDesignWebA2019/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjetFinalDesignWebA2019/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjetFinalDesignWebA2019/css/animate.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjetFinalDesignWebA2019/img/ParallaxIMGp3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjetFinalDesignWebA2019/img/faviconIMG.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjetFinalDesignWebA2019/img/p1CarouselIMG1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjetFinalDesignWebA2019/img/p1CarouselIMG2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjetFinalDesignWebA2019/img/p1CarouselIMG3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjetFinalDesignWebA2019/img/p5ANIMimg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjetFinalDesignWebA2019/img/p5ANIMimg2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjetFinalDesignWebA2019/img/p5ANIMimg3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjetFinalDesignWebA2019/js/wow.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjetFinalDesignWebA2019/page2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjetFinalDesignWebA2019/page3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjetFinalDesignWebA2019/page4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjetFinalDesignWebA2019/page5.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/js/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExercisesThedford/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ExercisesThedford/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JumbotronModal/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JumbotronModal/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MiniLadd/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MiniLadd/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MiniLadd/js/javascript.js" beforeDir="false" afterPath="$PROJECT_DIR$/../MiniLadd/js/javascript.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MiniLadd/page2.html" beforeDir="false" afterPath="$PROJECT_DIR$/../MiniLadd/page2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NavBaretCarrouselEtFavicon/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../NavBaretCarrouselEtFavicon/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../formulaire/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../formulaire/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,11 +179,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-627">
-              <caret line="126" column="47" lean-forward="true" selection-start-line="126" selection-start-column="47" selection-end-line="126" selection-end-column="47" />
+            <state relative-caret-position="578">
+              <caret line="66" column="38" selection-start-line="66" selection-start-column="38" selection-end-line="66" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/script.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="631">
+              <caret line="159" column="47" selection-start-line="159" selection-start-column="47" selection-end-line="159" selection-end-column="47" />
             </state>
           </provider>
         </entry>
@@ -25,17 +200,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="444">
+            <state relative-caret-position="1309">
               <caret line="77" column="20" selection-start-line="77" selection-start-column="20" selection-end-line="77" selection-end-column="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/js/script.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-3704">
-              <caret line="191" column="42" selection-start-line="191" selection-start-column="42" selection-end-line="191" selection-end-column="42" />
             </state>
           </provider>
         </entry>
@@ -73,7 +239,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -84,23 +249,18 @@
             <path>
               <item name="Examen2 JavaScript Photociti" type="b2602c69:ProjectViewProjectNode" />
               <item name="Examen2 JavaScript Photociti" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Examen2 JavaScript Photociti" type="b2602c69:ProjectViewProjectNode" />
               <item name="Examen2 JavaScript Photociti" type="462c0819:PsiDirectoryNode" />
               <item name="Letters" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Examen2 JavaScript Photociti" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Examen2 JavaScript Photociti" type="462c0819:PsiDirectoryNode" />
-              <item name="Letters" type="462c0819:PsiDirectoryNode" />
-              <item name="B" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -112,6 +272,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Thierry Nadeau\Documents\GitHub\aDudeFromDunwall\DesignWeb\Examen2 JavaScript Photociti\js" />
       <recent name="C:\Users\Thierry Nadeau\Desktop\Examen2 JavaScript Photociti" />
     </key>
   </component>
@@ -142,18 +303,26 @@
       <workItem from="1574273663609" duration="2931000" />
       <workItem from="1574342010102" duration="6424000" />
       <workItem from="1574356298330" duration="4320000" />
-      <workItem from="1574446151136" duration="5576000" />
+      <workItem from="1574446151136" duration="5923000" />
+      <workItem from="1574461481247" duration="345000" />
+      <workItem from="1574791925392" duration="638000" />
+      <workItem from="1574794363896" duration="1266000" />
+      <workItem from="1574947044717" duration="1286000" />
+      <workItem from="1575133485280" duration="185000" />
+      <workItem from="1575217603598" duration="230000" />
+      <workItem from="1575396817145" duration="18000" />
+      <workItem from="1575484481515" duration="20000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26513000" />
+    <option name="totallyTimeSpent" value="30848000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2685325" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.30332828" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -232,24 +401,25 @@
     <entry file="file://$PROJECT_DIR$/Letters/B/B2.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/js/animate.css" />
     <entry file="file://$PROJECT_DIR$/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="444">
+        <state relative-caret-position="1309">
           <caret line="77" column="20" selection-start-line="77" selection-start-column="20" selection-end-line="77" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-627">
-          <caret line="126" column="47" lean-forward="true" selection-start-line="126" selection-start-column="47" selection-end-line="126" selection-end-column="47" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/js/script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3704">
-          <caret line="191" column="42" selection-start-line="191" selection-start-column="42" selection-end-line="191" selection-end-column="42" />
+        <state relative-caret-position="631">
+          <caret line="159" column="47" selection-start-line="159" selection-start-column="47" selection-end-line="159" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="66" column="38" selection-start-line="66" selection-start-column="38" selection-end-line="66" selection-end-column="38" />
         </state>
       </provider>
     </entry>

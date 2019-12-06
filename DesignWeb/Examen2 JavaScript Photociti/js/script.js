@@ -434,3 +434,9 @@ $('#boutonNoir').click(function ()
 {
     $('#backgroungcolor').css("background-color","black");
 })
+
+
+
+
+
+
