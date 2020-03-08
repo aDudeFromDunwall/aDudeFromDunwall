@@ -1,0 +1,6 @@
+C:\Users\Thierry Nadeau\source\repos\ExercisesDesFor\ExercisesOUdevoirH2020Prog2\bin\Debug\ExercisesOUdevoirH2020Prog2.exe.config
+C:\Users\Thierry Nadeau\source\repos\ExercisesDesFor\ExercisesOUdevoirH2020Prog2\bin\Debug\ExercisesOUdevoirH2020Prog2.exe
+C:\Users\Thierry Nadeau\source\repos\ExercisesDesFor\ExercisesOUdevoirH2020Prog2\bin\Debug\ExercisesOUdevoirH2020Prog2.pdb
+C:\Users\Thierry Nadeau\source\repos\ExercisesDesFor\ExercisesOUdevoirH2020Prog2\obj\Debug\ExercisesDesFor.csprojAssemblyReference.cache
+C:\Users\Thierry Nadeau\source\repos\ExercisesDesFor\ExercisesOUdevoirH2020Prog2\obj\Debug\ExercisesOUdevoirH2020Prog2.exe
+C:\Users\Thierry Nadeau\source\repos\ExercisesDesFor\ExercisesOUdevoirH2020Prog2\obj\Debug\ExercisesOUdevoirH2020Prog2.pdb

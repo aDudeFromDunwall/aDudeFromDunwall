@@ -1,0 +1,9 @@
+C:\Users\Thierry Nadeau\source\repos\ExercisesDesFor\ExercisesJeuDeLaVie\bin\Debug\ExercisesJeuDeLaVie.exe.config
+C:\Users\Thierry Nadeau\source\repos\ExercisesDesFor\ExercisesJeuDeLaVie\bin\Debug\ExercisesJeuDeLaVie.exe
+C:\Users\Thierry Nadeau\source\repos\ExercisesDesFor\ExercisesJeuDeLaVie\bin\Debug\ExercisesJeuDeLaVie.pdb
+C:\Users\Thierry Nadeau\source\repos\ExercisesDesFor\ExercisesJeuDeLaVie\bin\Debug\ClassJeuDeLaVieVrai.dll
+C:\Users\Thierry Nadeau\source\repos\ExercisesDesFor\ExercisesJeuDeLaVie\bin\Debug\ClassJeuDeLaVieVrai.pdb
+C:\Users\Thierry Nadeau\source\repos\ExercisesDesFor\ExercisesJeuDeLaVie\obj\Debug\ExercisesJeuDeLaVie.csprojAssemblyReference.cache
+C:\Users\Thierry Nadeau\source\repos\ExercisesDesFor\ExercisesJeuDeLaVie\obj\Debug\ExercisesJeuDeLaVie.csproj.CopyComplete
+C:\Users\Thierry Nadeau\source\repos\ExercisesDesFor\ExercisesJeuDeLaVie\obj\Debug\ExercisesJeuDeLaVie.exe
+C:\Users\Thierry Nadeau\source\repos\ExercisesDesFor\ExercisesJeuDeLaVie\obj\Debug\ExercisesJeuDeLaVie.pdb

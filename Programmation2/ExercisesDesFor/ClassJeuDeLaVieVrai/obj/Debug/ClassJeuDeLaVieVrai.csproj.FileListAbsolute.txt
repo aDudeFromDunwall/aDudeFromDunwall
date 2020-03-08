@@ -1,0 +1,5 @@
+C:\Users\Thierry Nadeau\source\repos\ExercisesDesFor\ClassJeuDeLaVieVrai\bin\Debug\ClassJeuDeLaVieVrai.dll
+C:\Users\Thierry Nadeau\source\repos\ExercisesDesFor\ClassJeuDeLaVieVrai\bin\Debug\ClassJeuDeLaVieVrai.pdb
+C:\Users\Thierry Nadeau\source\repos\ExercisesDesFor\ClassJeuDeLaVieVrai\obj\Debug\ClassJeuDeLaVieVrai.csprojAssemblyReference.cache
+C:\Users\Thierry Nadeau\source\repos\ExercisesDesFor\ClassJeuDeLaVieVrai\obj\Debug\ClassJeuDeLaVieVrai.dll
+C:\Users\Thierry Nadeau\source\repos\ExercisesDesFor\ClassJeuDeLaVieVrai\obj\Debug\ClassJeuDeLaVieVrai.pdb
